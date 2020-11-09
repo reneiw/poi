@@ -1,2 +1,0 @@
-vmess=wiener.ltd:443, method=none, password=d8e9aa4c-3062-7a88-1164-e6ed8c68549f, obfs=wss, obfs-host=wiener.ltd, obfs-uri=/help, tls13=false, fast-open=false, udp-relay=false, tag=vmess-ws-tls-03
-trojan=wiener.ltd:443, password=d8e9aa4c-3062-7a88-1164-e6ed8c68549f, over-tls=true, tls-host=wiener.ltd, tls-verification=true, fast-open=false, udp-relay=false, tag=trojan-tls-03
