@@ -1,2 +1,4 @@
 #AzurLane EN
-DOMAIN-SUFFIX,yostar.helpshift.com,PROXY
+DOMAIN-SUFFIX, yostar.helpshift.com, PROXY
+DOMAIN-SUFFIX, cdn.cloudflare.yo-star.com, DIRECT
+DOMAIN-SUFFIX, blhxusstatic.yo-star.com, DIRECT
