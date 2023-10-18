@@ -68,23 +68,24 @@ DOMAIN-SUFFIX,kuyunbo.club,DIRECT
 # > ChinaNet
 DOMAIN-SUFFIX,21cn.com,DIRECT
 # > Himalaya
-DOMAIN-SUFFIX,9nali.com
-DOMAIN-SUFFIX,conchdate.com
-DOMAIN-SUFFIX,himalaya.com
-DOMAIN-SUFFIX,himalaya.cool
-DOMAIN-SUFFIX,qingxuetang.com
-DOMAIN-SUFFIX,soundconch.com
-DOMAIN-SUFFIX,tableauxmly.com
-DOMAIN-SUFFIX,xima.tv
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,ximalaya.fm
-DOMAIN-SUFFIX,ximalaya.tv
-DOMAIN-SUFFIX,ximalayadata.com
-DOMAIN-SUFFIX,xmcdn.com
-DOMAIN-SUFFIX,zhishif.com
-DOMAIN-SUFFIX,zhishinn.com
-DOMAIN-SUFFIX,zhishiu.com
-DOMAIN-SUFFIX,zhishiv.com
+DOMAIN-SUFFIX,9nali.com,DIRECT
+DOMAIN-SUFFIX,conchdate.com,DIRECT
+DOMAIN-SUFFIX,himalaya.com,DIRECT
+DOMAIN-SUFFIX,himalaya.cool,DIRECT
+DOMAIN-SUFFIX,qingxuetang.com,DIRECT
+DOMAIN-SUFFIX,soundconch.com,DIRECT
+DOMAIN-SUFFIX,tableauxmly.com,DIRECT
+DOMAIN-SUFFIX,xima.tv,DIRECT
+DOMAIN-SUFFIX,ximalaya.com,DIRECT
+DOMAIN-SUFFIX,ximalaya.fm,DIRECT
+DOMAIN-SUFFIX,ximalaya.tv,DIRECT
+DOMAIN-SUFFIX,ximalayadata.com,DIRECT
+DOMAIN-SUFFIX,xmcdn.com,DIRECT
+DOMAIN-SUFFIX,zhishif.com,DIRECT
+DOMAIN-SUFFIX,zhishinn.com,DIRECT
+DOMAIN-SUFFIX,zhishiu.com,DIRECT
+DOMAIN-SUFFIX,zhishiv.com,DIRECT
+USER-AGENT,Himalaya*,DIRECT
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com,DIRECT
 DOMAIN-SUFFIX,mgtv.com,DIRECT
