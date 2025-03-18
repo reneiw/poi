@@ -2,5 +2,6 @@
 DOMAIN-SUFFIX, yostar.helpshift.com, PROXY
 DOMAIN-SUFFIX, blhxusgate.yo-star.com, PROXY
 DOMAIN-SUFFIX, open.yo-star.com, PROXY
+DOMAIN-SUFFIX, azurusapi.yo-star.com, PROXY
 DOMAIN-SUFFIX, cdn.cloudflare.yo-star.com, DIRECT
 DOMAIN-SUFFIX, blhxusstatic.yo-star.com, DIRECT
