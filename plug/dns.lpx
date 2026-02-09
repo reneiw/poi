@@ -33,9 +33,6 @@ dns.twnic.tw = 101.101.101.101
 ordns.he.net = 74.82.42.42
 
 # > Modify Contents
-# Google API Services China
-# services.googleapis.cn = 74.125.193.94
-# Firebase Cloud Messaging
 talk.google.com = 108.177.125.188
 mtalk.google.com = 108.177.125.188
 alt1-mtalk.google.com = 3.3.3.3
@@ -47,24 +44,9 @@ alt6-mtalk.google.com = 3.3.3.3
 alt7-mtalk.google.com = 74.125.200.188
 alt8-mtalk.google.com = 3.3.3.3
 # Google CDN
-# dl.google.com = 180.163.151.161
-# dl.l.google.com = 180.163.151.161
+dl.google.com = 180.163.151.161
+dl.l.google.com = 180.163.151.161
 
-# --- CUSTOM DNS ---
-# > Modify Contents
-# Google CDN
-blog.google = server:119.29.29.29
-googletraveladservices.com = server:119.29.29.29
-dl.google.com = server:119.29.29.29
-dl.l.google.com = server:119.29.29.29
-clientservices.googleapis.com = server:119.29.29.29
-update.googleapis.com = server:119.29.29.29
-translate.googleapis.com = server:119.29.29.29
-fonts.googleapis.com = server:119.29.29.29
-fonts.gstatic.com = server:119.29.29.29
-# Google STUN
-stun.l.google.com = server:system
-stun?.l.google.com = server:system
 
 # > Router Admin Panel
 *.id.ui.direct = server:system
