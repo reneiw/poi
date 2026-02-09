@@ -169,7 +169,6 @@ goo.gl = server:h3://dns.google/dns-query
 tb.cn = server:h3://dns.alidns.com/dns-query
 
 # > 阿里云
-# refer: https://www.alidns.com
 # 阿里云
 *.aliyun.* = server:h3://dns.alidns.com/dns-query
 # 阿里云 CDN
@@ -188,7 +187,6 @@ tb.cn = server:h3://dns.alidns.com/dns-query
 *.aliyun-inc.com = server:h3://dns.alidns.com/dns-query
 
 # > 蚂蚁集团
-# refer: https://www.alidns.com
 *.antgroup.com = server:h3://dns.alidns.com/dns-query
 # 蚂蚁金服
 *.antfin.com = server:h3://dns.alidns.com/dns-query
