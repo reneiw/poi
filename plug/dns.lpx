@@ -67,137 +67,77 @@ stun.l.google.com = server:system
 stun?.l.google.com = server:system
 
 # > Router Admin Panel
-# Ubiquiti Unifi Network App
 *.id.ui.direct = server:system
-# Ubiquiti Unifi Portal
-# unifi.ui.com = server:system
-# Ubiquiti Unifi OS
 unifi.local = server:system
-# Ubiquiti Unifi Controller
-# network.unifi.ui.com = server:system
-# Ubiquiti Amplifi Router
 amplifi.lan = server:system
-# Synology Router
 router.synology.com = server:system
-# Razer Sila Router
 sila.razer.com = server:system
-# Asus Router
 router.asus.com = server:system
-# Netgear Router
 routerlogin.net = server:system
-# Netgear Obri Router
 orbilogin.com = server:system
-# Linksys Router
 www.LinksysSmartWiFi.com = server:system
 LinksysSmartWiFi.com = server:system
 myrouter.local = server:system
-# Aurba Router
 instant.arubanetworks.com = server:system
 setmeup.arubanetworks.com = server:system
-# 小米 Mi WiFi Router
 www.miwifi.com = server:system
 miwifi.com = server:system
-# 华为 Huawei Router
 mediarouter.home = server:system
-# TP-Link Router
 tplogin.cn = server:system
 tplinklogin.net = server:system
 tplinkwifi.net = server:system
-# 水星 MERCURY Router
 melogin.cn = server:system
-# 迅捷 FAST Router
 falogin.cn = server:system
-# 腾达 Tenda Router
 tendawifi.com = server:system
-# 磊科 Netcore Router
 leike.cc = server:system
-# 中兴 ZTE Router
 zte.home = server:system
-# 斐讯 PHICOMM Router
 p.to = server:system
 phicomm.me = server:system
-# 极路由 HiWiFi Router
 hiwifi.com = server:system
-# 迅雷路由
 peiluyou.com = server:system
-# M2M routers at MiFi Hotspot
 _hotspot_.m2m = server:system
-# csl Wi-Fi
 hotspot.cslwifi.com = server:system
 
 # > Apple
-# refer: https://support.apple.com/zh-cn/HT210060
 networking.apple = server:https://doh.dns.apple.com/dns-query
-# Apple.com
-# *.apple.com = server:https://doh.dns.apple.com/dns-query
-# iCloud.com
+*.apple.com = server:https://doh.dns.apple.com/dns-query
 *.icloud.com = server:https://doh.dns.apple.com/dns-query
 
 # > Alphabet
-# refer: https://developers.google.com/speed/public-dns/docs/doh?hl=zh-cn
-# *.google = server:h3://dns.google/dns-query
-# *.google.com = server:h3://dns.google/dns-query
-# *.google.com.?? = server:h3://dns.google/dns-query
-# Google sites
-# *.goog = server:h3://dns.google/dns-query
-# Google 静态资源
-# *.gstatic.com = server:h3://dns.google/dns-query
-# Google Photos
-# *.ggpht.com = server:h3://dns.google/dns-query
-# Google 用户上传数据
-# *.googleusercontent.com = server:h3://dns.google/dns-query
-# Google APIs
-# *.googleapis.com = server:h3://dns.google/dns-query
-# Google backbone
-# *.1e100.net = server:h3://dns.google/dns-query
-# Youtube sites
-# *.youtube = server:h3://dns.google/dns-query
-# Youtube
-# *.youtube.com = server:h3://dns.google/dns-query
-# Youtube 图片
-# *.ytimg.com = server:h3://dns.google/dns-query
-# Youtube Video
-# *.googlevideo.com = server:h3://dns.google/dns-query
-# Google Video Thumbnails
-# *.gvt?.com = server:h3://dns.google/dns-query
-# reCaptcha
-# *.recaptcha.net = server:h3://dns.google/dns-query
-# Gmail
-# *.gmail.com = server:h3://dns.google/dns-query
-# Google Source
-# *.googlesource.com = server:h3://dns.google/dns-query
-# Google AD Services
-# *.googleadservices.com = server:h3://dns.google/dns-query
-# DoubleClick
-# *.doubleclick.net = server:h3://dns.google/dns-query
-# AdSense
-# *.adsense.com = server:h3://dns.google/dns-query
-# AdSense Custom Search Ads
-# *.adsensecustomsearchads.com = server:h3://dns.google/dns-query
-# AdSense for mobile apps
-# *.adsenseformobileapps.com = server:h3://dns.google/dns-query
-# Google shortened URLs
-# *.gle = server:h3://dns.google/dns-query
-# Google URL Shortener
-# goo.gl = server:h3://dns.google/dns-query
+*.google = server:h3://dns.google/dns-query
+*.google.com = server:h3://dns.google/dns-query
+*.google.com.?? = server:h3://dns.google/dns-query
+*.goog = server:h3://dns.google/dns-query
+*.gstatic.com = server:h3://dns.google/dns-query
+*.ggpht.com = server:h3://dns.google/dns-query
+*.googleusercontent.com = server:h3://dns.google/dns-query
+*.googleapis.com = server:h3://dns.google/dns-query
+*.1e100.net = server:h3://dns.google/dns-query
+*.youtube = server:h3://dns.google/dns-query
+*.youtube.com = server:h3://dns.google/dns-query
+*.ytimg.com = server:h3://dns.google/dns-query
+*.googlevideo.com = server:h3://dns.google/dns-query
+*.gvt?.com = server:h3://dns.google/dns-query
+*.recaptcha.net = server:h3://dns.google/dns-query
+*.gmail.com = server:h3://dns.google/dns-query
+*.googlesource.com = server:h3://dns.google/dns-query
+*.googleadservices.com = server:h3://dns.google/dns-query
+*.doubleclick.net = server:h3://dns.google/dns-query
+*.adsense.com = server:h3://dns.google/dns-query
+*.adsensecustomsearchads.com = server:h3://dns.google/dns-query
+*.adsenseformobileapps.com = server:h3://dns.google/dns-query
+*.gle = server:h3://dns.google/dns-query
+goo.gl = server:h3://dns.google/dns-query
 
 # > Cloudflare
-# refer: https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/make-api-requests/
-# *.cloudflare.com = server:https://cloudflare-dns.com/dns-query
-# Cloudflare Stream
-# *.cloudflarestream.com = server:https://cloudflare-dns.com/dns-query
-# Cloudflare Client
-# *.cloudflareclient.com = server:https://cloudflare-dns.com/dns-query
-# Cloudflare Web Analytics
-# *.cloudflareinsights.com = server:https://cloudflare-dns.com/dns-query
-# Cloudflare 1.1.1.1
-# *.every1dns.net = server:https://cloudflare-dns.com/dns-query
-# Cloudflare SSL Certificate
-# *.cloudflaressl.com = server:https://cloudflare-dns.com/dns-query
-# Cloudflare DNS
-# *.cloudflare-dns.com = server:https://cloudflare-dns.com/dns-query
-# CloudFlare Workers
-# *.workers.dev = server:https://cloudflare-dns.com/dns-query
+*.cloudflare.com = server:h3://one.one.one.one/dns-query
+*.cloudflarestream.com = server:h3://one.one.one.one/dns-query
+*.cloudflareclient.com = server:h3://one.one.one.one/dns-query
+*.cloudflareinsights.com = server:h3://one.one.one.one/dns-query
+*.every1dns.net = server:h3://one.one.one.one/dns-query
+*.cloudflaressl.com = server:h3://one.one.one.one/dns-query
+*.cloudflare-dns.com = server:h3://one.one.one.one/dns-query
+*.workers.dev = server:h3://one.one.one.one/dns-query
 
 # > 阿里巴巴
 # refer: https://www.alidns.com
@@ -474,6 +414,8 @@ urlqh.cn = server:https://doh.360.cn/dns-query
 *.zjbyte.com = server:180.184.1.1
 # 字节跳动 CDN
 *.zjcdn.com = server:180.184.1.1
+*.feishu.cn = server:180.184.1.1
+*.feishucdn.com = server:180.184.1.1
 
 # > BiliBili
 # BiliBili upos视频服务器（阿里云）
