@@ -7,3 +7,6 @@ payload:
   - DOMAIN-SUFFIX,azurusapi.yo-star.com
   - DOMAIN-SUFFIX,gold-usergeneratedcontent.net
   - DOMAIN-SUFFIX,lsposed.org
+  - DOMAIN,warden.arukas.work
+  - DOMAIN,sb.cf.arukas.work
+  - DOMAIN,sb.arukas.work
